@@ -1,0 +1,70 @@
+[
+  {
+    "text": "This Agreement is entered into by Allied Esports Entertainment, Inc.",
+    "entities": [
+      [36, 72, "PARTY"]
+    ]
+  },
+  {
+    "text": "The Company agrees to pay USD 12,000,000.",
+    "entities": [
+      [26, 38, "AMOUNT"]
+    ]
+  },
+  [
+  {
+    "text": "This Agreement is entered into by China Real Estate Information Corporation.",
+    "entities": [
+      [36, 82, "PARTY"]
+    ]
+  },
+  {
+    "text": "The Licensee agrees to pay USD 500,000 to Allied Esports Entertainment, Inc.",
+    "entities": [
+      [27, 39, "AMOUNT"],
+      [43, 77, "PARTY"]
+    ]
+  },
+  {
+    "text": "Payment of USD 3,000,000 shall be made to World Poker Tour Enterprises, Inc.",
+    "entities": [
+      [11, 23, "AMOUNT"],
+      [45, 82, "PARTY"]
+    ]
+  },
+  {
+    "text": "This Agreement is entered into between Themart.com, Inc. and Retail Ventures LLC.",
+    "entities": [
+      [41, 60, "PARTY"],
+      [65, 86, "PARTY"]
+    ]
+  },
+  {
+    "text": "The Company shall pay a royalty fee of INR 7,50,000 within thirty days.",
+    "entities": [
+      [41, 52, "AMOUNT"]
+    ]
+  },
+  {
+    "text": "Union Dental Holdings, Inc. agrees to compensate Southern Star Energy, Inc.",
+    "entities": [
+      [0, 26, "PARTY"],
+      [51, 78, "PARTY"]
+    ]
+  },
+  {
+    "text": "An upfront payment of USD 1,200,000 shall be payable upon execution.",
+    "entities": [
+      [22, 34, "AMOUNT"]
+    ]
+  },
+  {
+    "text": "This contract is made by and between Zynga Inc. and CreditCards.com Inc.",
+    "entities": [
+      [34, 44, "PARTY"],
+      [49, 71, "PARTY"]
+    ]
+  }
+]
+
+]

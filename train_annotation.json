@@ -1,0 +1,182 @@
+[
+  {
+    "text": "THIS AGREEMENT sets forth the terms and conditions agreed to between Chase Bank USA, N.A. (\"Chase\") and you as an \"Affiliate\" in the Chase Affiliate Program.",
+    "entities": [
+      [63, 86, "PARTY"],
+      [90, 97, "PARTY"]
+    ]
+  },
+  {
+    "text": "Last Updated: April 6, 2007",
+    "entities": [
+      [14, 27, "DATE"]
+    ]
+  },
+  {
+    "text": "Chase will pay Affiliate a fee for each approved credit card account that originates from a link in Affiliate’s Website.",
+    "entities": [
+      [0, 5, "PARTY"],
+      [14, 23, "PARTY"]
+    ]
+  },
+  {
+    "text": "For purposes of determining Affiliate’s Commission, an \"Approved Account\" means any Chase credit card application that is approved by Chase.",
+    "entities": [
+      [38, 47, "PARTY"],
+      [83, 88, "PARTY"]
+    ]
+  },
+  {
+    "text": "The term of this Agreement will commence on the date that the Affiliate Registration Form is approved by Chase.",
+    "entities": [
+      [77, 85, "PARTY"]
+    ]
+  },
+  {
+    "text": "This Agreement will be governed in all respects by the laws of the State of Delaware.",
+    "entities": [
+      [66, 83, "JURISDICTION"]
+    ]
+  },
+{
+  "text": "The total payment shall be USD 10,000 payable within 30 days.",
+  "entities": [[26, 36, "AMOUNT"]]
+},
+{
+  "text": "An advance of INR 75,000 must be paid before execution.",
+  "entities": [[15, 26, "AMOUNT"]]
+},
+{
+  "text": "This Affiliate Agreement dated July 15, 2005 is entered into by and between Link Plus Corporation and Axiometric, LLC.",
+  "entities": [
+    [31, 43, "DATE"],
+    [78, 100, "PARTY"],
+    [105, 120, "PARTY"]
+  ]
+},
+{
+  "text": "This Business Affiliate Agreement dated January 28, 2005 is between Dr. George D. Green and Union Dental Corp.",
+  "entities": [
+    [40, 56, "DATE"],
+    [69, 89, "PARTY"],
+    [94, 111, "PARTY"]
+  ]
+},
+{
+  "text": "This Agreement is made this 1st day of October 2008 by and between Equidata, Inc. and National Credit Report.com, LLC.",
+  "entities": [
+    [28, 48, "DATE"],
+    [65, 79, "PARTY"],
+    [84, 118, "PARTY"]
+  ]
+},
+{
+  "text": "This Agreement made as of the 6th day of March, 2006 is by and between The Tube Music Network, Inc. and Tribune Broadcasting Company.",
+  "entities": [
+    [33, 55, "DATE"],
+    [76, 105, "PARTY"],
+    [110, 143, "PARTY"]
+  ]
+},
+{
+  "text": "This Agreement is entered into between Network 1 Financial, Inc. and Payment Data Systems, Inc., a Nevada Corporation.",
+  "entities": [
+    [36, 65, "PARTY"],
+    [70, 98, "PARTY"]
+  ]
+},
+{
+  "text": "This JOINT CONTENT LICENSE AGREEMENT dated February 1, 2018 is made by and between WPT Enterprises, Inc. and ZYNGA INC.",
+  "entities": [
+    [41, 57, "DATE"],
+    [82, 102, "PARTY"],
+    [107, 117, "PARTY"]
+  ]
+},
+{
+  "text": "The Agreement is entered into between WPT Enterprises, Inc., ZYNGA INC., and ZYNGA GAME IRELAND LIMITED.",
+  "entities": [
+    [36, 56, "PARTY"],
+    [58, 68, "PARTY"],
+    [74, 102, "PARTY"]
+  ]
+},
+{
+  "text": "This Agreement will be in effect for three years from the Effective Date of February 1, 2018.",
+  "entities": [
+    [79, 95, "DATE"]
+  ]
+},
+{
+  "text": "Zynga will pay WPT three million U.S. dollars per year as the Annual Minimum Guarantee.",
+  "entities": [
+    [20, 23, "PARTY"],
+    [29, 32, "PARTY"],
+    [33, 60, "AMOUNT"]
+  ]
+},
+{
+  "text": "This Agreement shall be governed by and interpreted in accordance with the laws of the State of California.",
+  "entities": [
+    [80, 100, "JURISDICTION"]
+  ]
+},
+{
+  "text": "This Domain Name and Content License Agreement is entered into by and between Beijing SINA Internet Information Service Co., Ltd. and Beijing Yisheng Leju Information Services Co., Ltd.",
+  "entities": [
+    [78, 136, "PARTY"],
+    [145, 205, "PARTY"]
+  ]
+},
+
+{
+  "text": "This Agreement shall be governed by the laws of the People's Republic of China.",
+  "entities": [
+    [48, 80, "JURISDICTION"]
+  ]
+},
+{
+  "text": "ALLIED ESPORTS ENTERTAINMENT, INC. filed a Form 8-K with the Securities and Exchange Commission on August 15, 2019.",
+  "entities": [
+    [0, 36, "PARTY"],
+    [98, 114, "DATE"]
+  ]
+},
+{
+  "text": "The following Additional Provisions form part of the Agreement dated February 1, 2018 entered into by and between ZYNGA INC. and ZYNGA GAME IRELAND LIMITED and their respective affiliates (\"Zynga\"), and WPT Enterprises, Inc. (WPT).",
+  "entities": [
+    [62, 78, "DATE"],
+    [105, 114, "PARTY"],
+    [119, 148, "PARTY"],
+    [185, 206, "PARTY"]
+  ]
+},
+{
+  "text": "Annual Minimum Guarantee. Zynga will pay WPT three million U.S. dollars ($3,000,000) per year according to the following schedule.",
+  "entities": [
+    [26, 31, "PARTY"],
+    [41, 44, "PARTY"],
+    [45, 80, "AMOUNT"]
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+]

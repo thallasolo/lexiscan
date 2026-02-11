@@ -1,0 +1,13 @@
+pytesseract
+pdf2image
+pillow
+opencv-python
+numpy
+scikit-learn
+fastapi
+uvicorn
+spacy
+python-multipart
+
+
+
